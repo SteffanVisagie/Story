@@ -1,0 +1,6 @@
+chapter 2 git commands from Github
+
+…or push an existing repository from the command line
+git remote add origin https://github.com/SteffanVisagie/FirstProjectApril2023.git
+git branch -M main
+git push -u origin main

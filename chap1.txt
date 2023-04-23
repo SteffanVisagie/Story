@@ -1,0 +1,10 @@
+chapter one basic for learnining git
+
+git init  - start git
+git status  - shows which files will be tracked
+git add  -  (filename)
+git add . - used to add all files in current working directory to staging area then use git comit
+git comit -m "" - used to add comit message  (by convention wrtie in current tense)
+git log - shows comit log
+git checkout (filename) - to rollback / revert to last comit
+git diff (filename) - used to compare a file to last comit
